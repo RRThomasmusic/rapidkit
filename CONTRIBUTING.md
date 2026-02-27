@@ -11,11 +11,18 @@ This repository is the ecosystem hub, not an implementation repo. Please use it 
 
 ## Where to Open Issues
 
-- CLI behavior/issues: `rapidkit-npm`
-- VS Code extension behavior/issues: `rapidkit-vscode`
-- Engine/generation/contracts: `rapidkit-core`
-- Example app quality and scenarios: `rapidkit-examples`
-- Cross-repo architecture or direction: this repository
+- CLI behavior/issues: [rapidkit-npm](https://github.com/getrapidkit/rapidkit-npm/issues)
+- VS Code extension behavior/issues: [rapidkit-vscode](https://github.com/getrapidkit/rapidkit-vscode/issues)
+- Engine/generation/contracts: [rapidkit-core](https://github.com/getrapidkit/rapidkit-core/issues)
+- Example app quality and scenarios: [rapidkit-examples](https://github.com/getrapidkit/rapidkit-examples/issues)
+- Cross-repo architecture or direction: [this repository](https://github.com/getrapidkit/rapidkit/issues)
+
+## Contributing to Specific Repos
+
+- CLI: [rapidkit-npm contributing guide](https://github.com/getrapidkit/rapidkit-npm/blob/main/CONTRIBUTING.md)
+- IDE: [rapidkit-vscode contributing guide](https://github.com/getrapidkit/rapidkit-vscode/blob/main/CONTRIBUTING.md)
+- Core Engine: [rapidkit-core contributing guide](https://github.com/getrapidkit/rapidkit-core/tree/main/docs/contributing)
+- Examples: [rapidkit-examples contributing guide](https://github.com/getrapidkit/rapidkit-examples/blob/main/CONTRIBUTING.md)
 
 ## Contribution Workflow
 

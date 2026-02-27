@@ -36,18 +36,24 @@ RapidKit is an open-source workspace platform that brings together a CLI, IDE ex
 ## Platform Topology
 
 ```text
-  +------------------+
-  | rapidkit-vscode  |  (IDE layer)
-  +---------+--------+
-            |
-+-----------+----------+     +----------------+
-| rapidkit-npm  (CLI)  |<--->| rapidkit-core  |
-|  Developer UX        |     | Engine + APIs  |
-+-----------+----------+     +----------------+
-            |
-  +---------+----------+
-  | rapidkit-examples  |  (Reference & adoption)
-  +--------------------+
+  Developer
+      |
+      v
++-----+---------------------+
+| rapidkit-npm  (CLI)       |  npm install -g rapidkit
+| Developer UX + Bootstrap  |
++-----+---------------------+
+      |                \
+      v                 v
++------------------+  +----------------+
+| rapidkit-vscode  |  | rapidkit-core  |
+| IDE layer        |  | Engine + APIs  |
++------------------+  +----------------+
+      |
+      v
++--------------------+
+| rapidkit-examples  |  Clone & run in one click
++--------------------+
 ```
 
 ## About This Repository
@@ -64,9 +70,14 @@ It exists to:
 - [Architecture](ARCHITECTURE.md)
 - [Roadmap](ROADMAP.md)
 - [Contributing](CONTRIBUTING.md)
+- [Releases](https://github.com/getrapidkit/rapidkit/releases)
 
 ---
 
 ## Contributing
 
 Contributions are welcome across all layers. Read [CONTRIBUTING.md](CONTRIBUTING.md) to understand how the ecosystem is structured and where to start.
+
+## License
+
+MIT — see [LICENSE](LICENSE)
